@@ -58,3 +58,4 @@ const bigNum = (num) => {
         console.log('Small Number')
     }
 }
+// g
